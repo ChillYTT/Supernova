@@ -1,5 +1,5 @@
 // Array of games for homepage to scroll over
-const games = [ "Moto X3M", "Run 3", "Run 2", "Temple Run 2", "Paper.io", "Subway Surfers" ];
+const games = [ "Moto X3M", "Vex 3", "Vex 4", "Vex 5", "Paper.io", "Subway Surfers", "Retrobowl",  "Slope", "Slope 2" ];
 // When homepage game scroll is done, it sets to "Play over (max_games_num)+ games"
 const max_games_num = 100;
 
